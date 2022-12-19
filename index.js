@@ -1,4 +1,4 @@
-// mongodb+srv://sid:<password>@cluster0.noezw5j.mongodb.net/?retryWrites=true&w=majority
+
 
 const express=require("express")
 const mongoose=require("mongoose")
